@@ -308,7 +308,7 @@ class LL:
 class CpdailyTools:
     """今日校园相关函数"""
 
-    desKey = "XCE927=="
+    desKey = "b3L26XNL"
     aesKey = b"SASEoK4Pa5d4SssO"
     aesKey_str = "SASEoK4Pa5d4SssO"
 
